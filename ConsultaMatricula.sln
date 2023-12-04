@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsultaMatricula", "ConsultaMatricula\ConsultaMatricula.csproj", "{DC84C7A0-D25A-4D7E-823B-71E860ECBBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC84C7A0-D25A-4D7E-823B-71E860ECBBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC84C7A0-D25A-4D7E-823B-71E860ECBBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC84C7A0-D25A-4D7E-823B-71E860ECBBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC84C7A0-D25A-4D7E-823B-71E860ECBBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39D5F0B-B55F-44FA-8EF1-60412359F334}
+	EndGlobalSection
+EndGlobal
